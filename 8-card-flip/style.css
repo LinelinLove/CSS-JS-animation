@@ -12,15 +12,11 @@
 
 }
 
-/* html {
-    height: 100vh;
-} */
-
 body {
     font-family: montserrat, sans-serif;
     width: 100%;
-    /* min-height: 100vh; */
     height: 100vh;
+    overflow: hidden;
 }
 
 .card {
